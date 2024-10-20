@@ -33,7 +33,7 @@ To get this project running on your local machine, follow these steps:
     git clone https://github.com/zi-crypto/Focus-DECI-GEEKS-competition.git
     ```
    
-2. **Install dependencies**:
+2. **Install dependencies** from python file
 
 3. **Run the software**:
     ```bash
